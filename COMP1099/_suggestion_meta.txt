@@ -1,0 +1,4 @@
+repo_name = COMP1099
+course_code = COMP1099
+course_name = 测试课程
+repo_type = normal

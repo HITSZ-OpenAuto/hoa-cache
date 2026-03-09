@@ -1,0 +1,15 @@
+course_name = "测试课程"
+repo_type = "normal"
+course_code = "COMP1099"
+
+description = """测试内容1"""
+[[lecturers]]
+name = "张三"
+[[lecturers.reviews]]
+content = """好老师"""
+author = {name = "", link = "", date = ""}
+[[sections]]
+title = "测试标题"
+[[sections.items]]
+content = "测试内容2"
+author = {name = "哈基米", link = "hajimi.com", date = "2026-03"}
