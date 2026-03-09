@@ -1,0 +1,4 @@
+repo_name = TEST-CACHE-FLOW-001
+course_code = TEST-CACHE-FLOW-001
+course_name = 测试缓存提交流程
+repo_type = normal
