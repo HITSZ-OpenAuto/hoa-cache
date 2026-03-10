@@ -1,0 +1,4 @@
+repo_name = TESTBOT20260310184748
+course_code = TESTBOT20260310184748
+course_name = 临时仓库接口回归测试
+repo_type = normal
