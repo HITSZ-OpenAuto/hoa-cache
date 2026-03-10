@@ -1,0 +1,5 @@
+course_name = "兼容性测试课程"
+repo_type = "normal"
+course_code = "ZZZZ9999"
+
+description = """compat test"""

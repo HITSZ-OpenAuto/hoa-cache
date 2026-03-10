@@ -1,0 +1,4 @@
+repo_name = ZZZZ9999
+course_code = ZZZZ9999
+course_name = 兼容性测试课程
+repo_type = normal
