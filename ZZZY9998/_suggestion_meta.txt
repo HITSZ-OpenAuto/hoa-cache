@@ -1,0 +1,4 @@
+repo_name = ZZZY9998
+course_code = ZZZY9998
+course_name = 兼容返回验证课程
+repo_type = normal
