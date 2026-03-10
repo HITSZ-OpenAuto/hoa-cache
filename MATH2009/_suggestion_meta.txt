@@ -1,0 +1,4 @@
+repo_name = MATH2009
+course_code = MATH2009
+course_name = 深度学习
+repo_type = normal

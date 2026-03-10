@@ -1,0 +1,11 @@
+course_name = "深度学习"
+repo_type = "normal"
+course_code = "MATH2009"
+
+description = """
+"""
+[[lecturers]]
+name = "ceshi"
+[[lecturers.reviews]]
+content = """ceshineir"""
+author = {name = "ceshirenwu", link = "ces", date = "2026-03"}
