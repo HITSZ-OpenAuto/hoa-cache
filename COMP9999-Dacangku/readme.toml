@@ -1,0 +1,17 @@
+course_name = "Dacangku"
+course_code = "COMP9999"
+repo_type = "normal"
+description = """\nAuto bootstrap by pr-server for missing course target.\n"""
+
+[[sections]]
+title = "课程信息"
+[[sections.items]]
+content = """
+
+初始化课程条目。
+
+"""
+[[sections]]
+title = "Info"
+[[sections.items]]
+content = "submit smoke"
