@@ -1,0 +1,25 @@
+course_code = 'HOA-MULTI'
+course_name = 'HOA-MULTI'
+description = """
+Auto bootstrap by pr-server for missing course target.
+"""
+repo_type = 'normal'
+
+[courses]
+[courses.'高等数学']
+name = '高等数学'
+
+[courses.'高等数学'.sections]
+[courses.'高等数学'.sections.'学习资料']
+title = '学习资料'
+
+[[courses.'高等数学'.sections.'学习资料'.items]]
+content = '测试'
+
+[[sections]]
+title = '课程信息'
+
+[[sections.items]]
+content = """
+初始化课程条目。
+"""
