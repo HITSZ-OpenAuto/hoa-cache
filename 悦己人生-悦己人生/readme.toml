@@ -1,0 +1,18 @@
+course_name = "悦己人生"
+course_code = "悦己人生"
+repo_type = "normal"
+description = """\nAuto bootstrap by pr-server for missing course target.\n"""
+
+[[sections]]
+title = "课程信息"
+[[sections.items]]
+content = """
+
+初始化课程条目。
+
+"""
+[[lecturers.items]]
+name = "ces1"
+[[lecturers.items.reviews]]
+content = "test"
+author = { name = "1", link = "1", date = "2026-04" }
