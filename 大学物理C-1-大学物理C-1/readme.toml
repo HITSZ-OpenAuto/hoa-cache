@@ -1,0 +1,18 @@
+course_name = "大学物理C（1）"
+course_code = "大学物理C（1）"
+repo_type = "normal"
+description = """\nAuto bootstrap by pr-server for missing course target.\n"""
+
+[[sections]]
+title = "课程信息"
+[[sections.items]]
+content = """
+
+初始化课程条目。
+
+"""
+[[sections]]
+title = "1"
+[[sections.items]]
+content = "1"
+author = { name = "1", link = "1", date = "2026-04" }
