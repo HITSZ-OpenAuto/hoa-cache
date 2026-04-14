@@ -1,0 +1,21 @@
+course_name = "【实验】大学物理实验A-20...[液体表面张力的测定]"
+course_code = "PHYS1006"
+repo_type = "normal"
+description = """\nAuto bootstrap by pr-server for missing course target.\n"""
+
+[[sections]]
+title = "课程信息"
+[[sections.items]]
+content = """
+
+初始化课程条目。
+
+"""
+[[lecturers.items]]
+name = "王栓"
+[[lecturers.items.reviews]]
+content = """
+预习一定要一定要一定要看实验指导书
+要不然会被叫重写或者预习打低分
+"""
+author = { name = "哈气基米哈气哈基米", link = "", date = "2026-04" }
