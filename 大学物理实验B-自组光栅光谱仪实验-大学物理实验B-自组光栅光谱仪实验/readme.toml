@@ -1,0 +1,18 @@
+course_name = "大学物理实验B-自组光栅光谱仪实验"
+course_code = "大学物理实验B-自组光栅光谱仪实验"
+repo_type = "normal"
+description = """\nAuto bootstrap by course-server for missing course target.\n"""
+
+[[sections]]
+title = "课程信息"
+[[sections.items]]
+content = """
+
+初始化课程条目。
+
+"""
+[[sections]]
+title = "exam"
+[[sections.items]]
+content = "10号"
+author = { name = "1", link = "", date = "2026-09" }
