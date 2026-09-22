@@ -1,0 +1,18 @@
+course_name = "色彩美学"
+course_code = "色彩美学"
+repo_type = "normal"
+description = """\nAuto bootstrap by course-server for missing course target.\n"""
+
+[[sections]]
+title = "课程信息"
+[[sections.items]]
+content = """
+
+初始化课程条目。
+
+"""
+[[sections]]
+title = "exam"
+[[sections.items]]
+content = "B213"
+author = { name = "blanc", link = "", date = "2026-09" }
